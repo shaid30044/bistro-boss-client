@@ -27,6 +27,6 @@ Feedback and Reviews:
 
 - Allow users to leave feedback and reviews for the food they've ordered, contributing to a community-driven experience.
 
-Technologies: React, JacaScript, Tailwind CSS, Daisy UI, Firebase, Node.js, Express.js, MongoDB, JWT
+Technologies: React, JavaScript, Tailwind CSS, Daisy UI, Firebase, Node.js, Express.js, MongoDB, JWT
 
 live site link: https://bistro-boss-ab2ae.web.app
